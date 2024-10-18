@@ -4,7 +4,7 @@
 
 This repository contains a Docker Compose setup that utilizes an Nginx reverse proxy to manage multiple services (Server A, Server B, and Server C) running in separate containers. The reverse proxy routes incoming requests to the appropriate server based on the URL path.
 
-![Nginx Reverse Proxy Architecture](nginx_reverse_proxy.png)
+![Nginx Reverse Proxy Architecture](nginx reverse proxy.png)
 
 ## Key Components
 
